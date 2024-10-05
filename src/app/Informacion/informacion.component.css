@@ -1,0 +1,10 @@
+h2{
+    color: blue;
+}
+button{
+    background-color: lightgreen;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
